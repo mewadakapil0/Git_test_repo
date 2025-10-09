@@ -1,6 +1,3 @@
 fix the bug
 first bug of master
-secand bug fix
-third bug fix 
-fourth bug fix 
-fifth bug fix ; 
+second bug fix 
